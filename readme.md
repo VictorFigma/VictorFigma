@@ -1,7 +1,7 @@
 ![Banner Image](doc/banner.png)
 # Hi there! 👋🏻 I'm Victor, a passionate tech learner
    
-🚀 I'm actively seeking hackathons to participate in! Explore my notable achievements 📋[here](https://victorfigma.github.io/Hackthon-List/)👈🏻👈🏻👈🏻.
+🚀 I'm actively seeking hackathons to participate in! Explore my notable achievements 📋[here](https://victorfigma.github.io/hackthon-list/)👈🏻👈🏻👈🏻.
 
 🛠️ Specialized in Data Science, Artificial Intelligence, and Back-End. My tech toolkit includes prominent languages such as Python, Java, C++, and SQL, alongside proficiency in various others.
 
