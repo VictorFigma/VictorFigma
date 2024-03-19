@@ -1,14 +1,18 @@
 ![Banner Image](doc/banner.png)
-# Hi there! 👋🏻 I'm Victor, a passionate tech learner
+# Hi there! 👋🏻 I'm Victor
    
-🚀 I'm actively seeking hackathons to participate in! Explore my notable achievements 📋[here](https://victorfigma.github.io/hackthon-list/)👈🏻👈🏻👈🏻.
+🚀 I'm actively seeking hackathons to participate in! Explore my notable achievements 👉🏻[here](https://victorfigma.github.io/portfolio/#hackathons)👈🏻.
 
 🛠️ Specialized in Data Science, Artificial Intelligence, and Back-End. My tech toolkit includes prominent languages such as Python, Java, C++, and SQL, alongside proficiency in various others.
 
 📈 Beyond tech, I bring a strong proficiency in business-related matters, ensuring a holistic approach to problem-solving and innovation.
 
-## Contact me
+📋 Learn more about my projects through my [portfolio](https://victorfigma.github.io/portfolio/).
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=victorfigma@gmail.com)](mailto:victorfigma@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorfigma)](https://www.linkedin.com/in/victorfigma) [![GitHub Badge](https://img.shields.io/github/followers/VictorFigma?label=follow&style=social)](https://github.com/VictorFigma) 
-
-![Terminal Gif](doc/terminal.gif)
+<p align="center">
+  <br>
+  <img src="doc/terminal.gif" alt="Terminal Gif">
+  <br>
+  <br>
+  <a>PLEASE, DON'T TOUCH THIS BUTTON</a> <a href="https://victorfigma.github.io/portfolio/" style="text-decoration: none; color: inherit;"> 👉🏻🔴👈🏻</a>
+</p>
