@@ -14,5 +14,5 @@
   <img src="doc/terminal.gif" alt="Terminal Gif">
   <br>
   <br>
-  <a>PLEASE, DON'T TOUCH THIS BUTTON</a> <a href="https://victorfigma.github.io/portfolio/index.html" title="YOU'RE WARNED"> 👉🏻🔴👈🏻</a>
+  <a>PLEASE, DON'T PRESS THIS BUTTON</a> <a href="https://victorfigma.github.io/portfolio/index.html" title="YOU'RE WARNED"> 👉🏻🔴👈🏻</a>
 </p>
